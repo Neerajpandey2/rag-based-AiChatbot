@@ -1,0 +1,13 @@
+.qa-textarea {
+  min-height: 70px;
+  resize: vertical; /* user can drag to resize */
+  white-space: pre-wrap; /* wraps long text to next line */
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.card-body {
+  padding: 16px;
+}
