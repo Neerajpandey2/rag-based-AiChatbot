@@ -1,0 +1,13 @@
+{
+    "message": "PDF processing complete",
+    "summary": [
+        {
+            "question": "Who is the author?",
+            "answer": "rajesh"
+        },
+        {
+            "question": "What is the date?",
+            "answer": "7/30/2025"
+        }
+    ]
+}
